@@ -1,0 +1,4 @@
+these are my notes.
+
+git add . && git commit -m "add text here" && git push 
+
